@@ -9,10 +9,10 @@
 #### ⚠️ ***Note***   ⚠️
 For best results make sure the images are of the following dimensions `768x1024`
 
---- 
+---
 
 #### Try the virtual experience by clicking the button below
-<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1MARJ-LRCaPuH_5Zs6eLMBqzE9X7xMzjC?usp=sharing">
+<a target="_blank" href="https://colab.research.google.com/drive/1MARJ-LRCaPuH_5Zs6eLMBqzE9X7xMzjC?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
